@@ -3,7 +3,7 @@
 Aditi Singh Project Details: 
 
 1} GitHub Link:Upload files 
-aditizasha-a11/ICICI-Bank-AI-Driven-Dashboard-
+(https://github.com/aditizasha-a11/ICICI-Bank-AI-Driven-Dashboard-)
 
 2} Project Structure 
 
